@@ -69,9 +69,10 @@
     webpack-merge "^2.4.0"
     zone.js "^0.7.2"
 
-"@angular/common@^2.3.1":
-  version "2.4.8"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-2.4.8.tgz#e45a77a9d852c8e7135053ff38cf805435458c48"
+"@angular/common@^2.4.10":
+  version "2.4.10"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-2.4.10.tgz#a3a682d2228fa30ec23dd0eb57c8e887fba26997"
+  integrity sha512-ExCbb/jTH4mGopV2M3+Ya1yFL3p7rA/gtL023bp9lxp1CD8LxjxcWCy5d/BkWBAVKEYjBasAW6UhrrnbNKx1ZA==
 
 "@angular/compiler-cli@>=2.3.1 <5.0.0", "@angular/compiler-cli@^2.3.1":
   version "2.4.8"
@@ -81,37 +82,56 @@
     minimist "^1.2.0"
     reflect-metadata "^0.1.2"
 
-"@angular/compiler@>=2.3.1 <5.0.0", "@angular/compiler@^2.3.1":
+"@angular/compiler@>=2.3.1 <5.0.0":
   version "2.4.8"
   resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-2.4.8.tgz#fa788fc8bed9f322b040af2b9a06a70991390e23"
 
-"@angular/core@>=2.3.1 <5.0.0", "@angular/core@^2.3.1":
+"@angular/compiler@^2.4.10":
+  version "2.4.10"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-2.4.10.tgz#f51fd34820b2a02c7cb61fbcf49873c58056fb0c"
+  integrity sha512-woq5GMFIV+50YebpZLqX1eV8X4lH2z8V692zx2Gi/eCzkWsGkvcRSTk+oMahlbCyM786zCe8oQvCZyGFxYLpfA==
+
+"@angular/core@>=2.3.1 <5.0.0":
   version "2.4.8"
   resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.4.8.tgz#bf1a4fc324827516e6c3222047a9b2cbdaee6976"
 
-"@angular/forms@^2.0.1", "@angular/forms@^2.3.1":
+"@angular/core@^2.4.10":
+  version "2.4.10"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.4.10.tgz#0b8320a65065965d998645b1f5cd3cf769b441ea"
+  integrity sha512-AJeJONPkuQM3DHEEYBK2j5hEsplIcxt6ltlwo2jadMTiGouUPKsTArjb75c6yDyKBxxoYZ9O//XNy07ODXBtig==
+
+"@angular/forms@^2.0.1":
   version "2.4.8"
   resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-2.4.8.tgz#51512a801aaf3a1eba7bce2b22694537b93f047f"
 
-"@angular/http@^2.3.1":
-  version "2.4.8"
-  resolved "https://registry.yarnpkg.com/@angular/http/-/http-2.4.8.tgz#e81ac8e4db836ed813edc4ffa137596cd5836baf"
+"@angular/forms@^2.4.10":
+  version "2.4.10"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-2.4.10.tgz#062133aaade1f3b3c962f1593208c541b622fd06"
+  integrity sha512-A/kCKcQdR7RsSRJNRcNsMJUwsmO3MsdZfG8K5GgnJL275MRP5R6oDW2vdXwh/zP0q1qwr6WHp5qLRiFOzvBS+A==
+
+"@angular/http@^2.4.10":
+  version "2.4.10"
+  resolved "https://registry.yarnpkg.com/@angular/http/-/http-2.4.10.tgz#ff6beade5b39c989ebf2393c49b34eebd43e9555"
+  integrity sha512-4K4hpzbJgCvfvCGVERWPU+df6huK+FNuiMnvsTFEmTc7xwEPgSfU3xBFuVZN2LBDTN3yA4BRSXXztHgRUaUbZA==
 
 "@angular/material@^2.0.0-beta.2":
   version "2.0.0-beta.2"
   resolved "https://registry.yarnpkg.com/@angular/material/-/material-2.0.0-beta.2.tgz#65ee8733990347b7518b7f42113e02e069dc109b"
 
-"@angular/platform-browser-dynamic@^2.3.1":
-  version "2.4.8"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-2.4.8.tgz#86059fe930489d1ca0056a5aba0b4420414759f5"
+"@angular/platform-browser-dynamic@^2.4.10":
+  version "2.4.10"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-2.4.10.tgz#8df25dec2b06adc690cc9bc26448deccaebcd8ec"
+  integrity sha512-NJcawfrjeRIE8R+iagC4V3G6q76vxN0MwwJxzPMTFirNEzngm4aG7LuB1TupbJeXCo3pWtBXXadj3/AB9Hjx5w==
 
-"@angular/platform-browser@^2.3.1":
-  version "2.4.8"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-2.4.8.tgz#686bc82d9188e354181699640777237ed79122ed"
+"@angular/platform-browser@^2.4.10":
+  version "2.4.10"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-2.4.10.tgz#cbf25608148fb4ffef96cc5005ba5d7b3e093906"
+  integrity sha512-7GuHgvRN8TnNvQ1ppW0L5hz5qafP7m6Caj4vKNnt1FLM1/vHRBgtZ6U9gIa2DmiD8mT7M1cYAeDX7Qa7NbeYug==
 
-"@angular/router@^3.3.1":
-  version "3.4.8"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-3.4.8.tgz#d569099359848a3f708df87f685c98d37621ab97"
+"@angular/router@^3.4.10":
+  version "3.4.10"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-3.4.10.tgz#a466a0918fc2882ece18ca12bd5aea298050e91e"
+  integrity sha512-NYQ+yxcZxA62knysW7biEfgOqzM7eLU2AXLUJWqnRV6HkJuJ254sW3CN7VyZNGggorIbS7fBa0eh9auWHeSfJQ==
 
 "@angular/tsc-wrapped@0.5.2", "@angular/tsc-wrapped@>=0.5.0 <5.0.0":
   version "0.5.2"
